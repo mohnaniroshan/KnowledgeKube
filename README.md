@@ -1,4 +1,4 @@
-# QuizApp-Java
+# KnowledgeKube-Java
 
 An application for exam managment.
 
@@ -42,17 +42,17 @@ https://user-images.githubusercontent.com/55599023/220412763-49ba87d6-8c1c-477a-
   - View result instantly after exam
   
 ## Screenshots (Admin UI):
-![1](https://github.com/zafir100100/QuizApp-Java/blob/master/resources/screenshots/1.png)
-![2](https://github.com/zafir100100/QuizApp-Java/blob/master/resources/screenshots/2.png)
-![3](https://github.com/zafir100100/QuizApp-Java/blob/master/resources/screenshots/3.png)
-![4](https://github.com/zafir100100/QuizApp-Java/blob/master/resources/screenshots/4.png)
-![5](https://github.com/zafir100100/QuizApp-Java/blob/master/resources/screenshots/5.png)
+![1](https://github.com/zafir100100/KnowledgeKube-Java/blob/master/resources/screenshots/1.png)
+![2](https://github.com/zafir100100/KnowledgeKube-Java/blob/master/resources/screenshots/2.png)
+![3](https://github.com/zafir100100/KnowledgeKube-Java/blob/master/resources/screenshots/3.png)
+![4](https://github.com/zafir100100/KnowledgeKube-Java/blob/master/resources/screenshots/4.png)
+![5](https://github.com/zafir100100/KnowledgeKube-Java/blob/master/resources/screenshots/5.png)
 
 ## Screenshots (Student UI):
-![6](https://github.com/zafir100100/QuizApp-Java/blob/master/resources/screenshots/6.png)
-![7](https://github.com/zafir100100/QuizApp-Java/blob/master/resources/screenshots/7.png)
-![8](https://github.com/zafir100100/QuizApp-Java/blob/master/resources/screenshots/8.png)
-![9](https://github.com/zafir100100/QuizApp-Java/blob/master/resources/screenshots/9.png)
+![6](https://github.com/zafir100100/KnowledgeKube-Java/blob/master/resources/screenshots/6.png)
+![7](https://github.com/zafir100100/KnowledgeKube-Java/blob/master/resources/screenshots/7.png)
+![8](https://github.com/zafir100100/KnowledgeKube-Java/blob/master/resources/screenshots/8.png)
+![9](https://github.com/zafir100100/KnowledgeKube-Java/blob/master/resources/screenshots/9.png)
 
 ## Admin credential:
   - default username: admin

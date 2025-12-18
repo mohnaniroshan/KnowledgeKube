@@ -3,6 +3,12 @@
 An application for exam managment.
 
 ---
+## Tech Stack Update (Review 2)
+
+- Java SE (Compatible with Java 17+)
+- JDBC with MySQL for persistent storage
+- Apache Ant build system
+- MySQL Database (replacing JSON-based storage)
 
 ## Video Output:
 

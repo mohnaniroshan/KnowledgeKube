@@ -1,4 +1,4 @@
-# QuizApp-Java
+# KnowledgeKube
 
 An application for exam managment.
 
